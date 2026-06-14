@@ -1,0 +1,94 @@
+[
+  {
+    "name": "etaHEN -v.B-2.6",
+    "filename": "etaHEN_v2.6B.bin",
+    "version": "2.6B",
+    "url": "https://github.com/etaHEN/etaHEN",
+    "source_mirror": "https://github.com/zecoxao/zecoxao.github.io/tree/main/luasauce/payloads",
+    "description": "All-In-One Homebrew Enabler payload for PS5."
+  },
+  {
+    "name": "Kstuff Lite -v.B-1.2.t2",
+    "filename": "Kstuff-Lite_v1.2-dr.t2.elf",
+    "version": "1.2-dr-test2",
+    "url": "https://github.com/drakmor/kstuff-lite/releases/tag/1.2-dr-test2",
+    "description": "Drakmor's fork of the kernel patching engine."
+  },
+  {
+    "name": "CheatRunner -v.0.12",
+    "filename": "CheatRunner_v0.12.elf",
+    "version": "0.12",
+    "url": "https://github.com/notmaj0r/CheatRunner",
+    "description": "In-game code execution environment."
+  },
+  {
+    "name": "Savemnt Offset Dumper -v.1.0.0",
+    "filename": "savemnt-offset-dumper_v1.0.0.elf",
+    "version": "1.0.0",
+    "url": "https://github.com/StonedModder/savemnt-offset-dumper",
+    "description": "Utility to dump target filesystem mounting offsets."
+  },
+  {
+    "name": "Elfldr PS5 -v.0.23.2",
+    "filename": "Elfldr-ps5_v0.23.2-148b71c.elf",
+    "version": "0.23.2",
+    "url": "https://github.com/itsPLK/ps5-elfldr",
+    "description": "Primary ELF loading sub-routine system."
+  },
+  {
+    "name": "Elf-Arsenal -v.1.6.18",
+    "filename": "Elf-Arsenal_v1.6.18.elf",
+    "version": "1.6.18",
+    "url": "https://git.etawen.dev/soniciso/elf-arsenal",
+    "description": "Advanced shell execution and collection toolkit."
+  },
+  {
+    "name": "Payload Manager -v.0.3.1",
+    "filename": "pldmgr_v0.3.1.elf",
+    "version": "0.3.1",
+    "url": "https://github.com/itsPLK/ps5-payload-manager",
+    "description": "Web-based daemon to orchestrate on-console payload states."
+  },
+  {
+    "name": "Pegasus DL -v.1.3.0",
+    "filename": "Pegasus-DL_v.1.3.0.elf",
+    "version": "1.3.0",
+    "url": "https://github.com/pegasus-ps5/pegasus-dl",
+    "description": "Asset downloader layer optimized for low-level environments."
+  },
+  {
+    "name": "Game Compressor -v.0.9.6",
+    "filename": "Game-Compressor_v.0.9.6.elf",
+    "version": "0.9.6",
+    "url": "https://github.com/juma-sayeh/PS5-Game-Compressor",
+    "description": "Storage space allocation footprint compressor."
+  },
+  {
+    "name": "SpectrumLibrary -v.1.4",
+    "filename": "SpectrumLibrary_v.1.4.elf",
+    "version": "1.4",
+    "url": "https://github.com/Phoenixx1202/Spectrum-Library",
+    "description": "Shared runtimes helper dependency backend."
+  },
+  {
+    "name": "Kstuff Lite -v.B-1.07",
+    "filename": "Kstuff-Lite_vB-1.07.elf",
+    "version": "1.07",
+    "url": "",
+    "description": "Kernel patch tool revision layer."
+  },
+  {
+    "name": "nanoDNS -v.0.3",
+    "filename": "nanoDNS_v0.3.elf",
+    "version": "0.3",
+    "url": "",
+    "description": "Local DNS redirect proxy configuration payload."
+  },
+  {
+    "name": "ShadowMount+ -v.1.6.F2",
+    "filename": "ShadowMount+_v1.6-t15.f2.elf",
+    "version": "1.6-t15.f2",
+    "url": "",
+    "description": "Automated filesystem layer background auto-mounter."
+  }
+]
